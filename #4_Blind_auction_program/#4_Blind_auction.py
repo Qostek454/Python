@@ -27,5 +27,5 @@ while other_bidders != 'no':
     add_to_bidders_list(name,bid)
     clear()  
 
-# Print result
+# Print result 
 print(f"The winner is {winners_name} with a bid of ${max_bid}.")
