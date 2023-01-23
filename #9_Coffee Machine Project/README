@@ -1,0 +1,6 @@
+Coffee Machine Project
+
+In the Coffee Machine Project.py file please find a main code for designed a coffee machine. 
+Machine can create 3 types of coffeee, count inserted money, give a change and check the status of resources. User may also look at the report and refil the resources. Pleae note that: Everytime user restart the machine, resources refill.
+
+Enjoy your coffee!
