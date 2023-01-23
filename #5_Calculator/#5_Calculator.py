@@ -32,7 +32,7 @@ def calculator():
         
     symbol = input("Pick an operation from the line above: ")
     answer1 = dic_calculations[symbol](num1,num2)
-        
+    
     # printing solution
     print(f"{num1} {symbol} {num2} = {answer1}")
 
