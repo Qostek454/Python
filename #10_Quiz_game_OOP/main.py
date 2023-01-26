@@ -18,3 +18,4 @@ while quiz.still_has_questions():
 # ending words and score    
 print("You've complated the quiz. Congratulations!")
 print(f'Your final score is: {quiz.score}/{quiz.question_number}')
+print("Good Bye!")
