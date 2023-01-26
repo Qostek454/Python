@@ -46,3 +46,4 @@ elif game_level == 'hard':
             result = True
 else:
     print("Wrong game difficulty.")
+    

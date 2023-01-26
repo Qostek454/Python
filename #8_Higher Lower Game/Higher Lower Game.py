@@ -33,5 +33,6 @@ def game():
             break
         b = random.choice(list(data))
 
+        
 
 game()
