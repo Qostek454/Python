@@ -1,0 +1,5 @@
+Quiz_brain.py is file where main class is stored. Quiz_brain is used in main.py file
+question_model.py is file where question class is stored. This class is necessarry for creating a question_bank from a list of questions (question_data from data file)
+Main.py is file where the whole quiz game is set.
+
+Enjoy the quiz!
