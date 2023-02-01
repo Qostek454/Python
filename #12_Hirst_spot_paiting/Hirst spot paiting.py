@@ -39,3 +39,4 @@ hirst_spot_paiting(10,10,-200,-200,50,50)
 # Settings - screen
 screen = Screen()
 screen.exitonclick()
+
